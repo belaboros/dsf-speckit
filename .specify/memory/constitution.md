@@ -1,6 +1,6 @@
 # Constitution
 
-Starting principles from the Dark / grey Software Factory. Each application owns its copy: amend it with `/speckit-constitution` in design mode, and record why in an ADR.
+Starting principles from the Dark / gray Software Factory. Each application owns its copy: amend it with `/speckit-constitution` in design mode, and record why in an ADR.
 
 ## Core Principles
 
