@@ -1,0 +1,7 @@
+{
+  "$comment": "Spec Kit ticks off tasks in specs/<feature>/tasks.md while implementing, and keeps the constitution in .specify/memory/.",
+  "modes": {
+    "build": { "allow": ["specs/*/tasks.md"] },
+    "design": { "allow": [".specify/memory/"] }
+  }
+}
